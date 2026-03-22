@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/184764343?v=4&size=64" 
-       width="180" 
-       style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Arun Vats</h1>
 
