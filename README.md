@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/REPLACE_WITH_YOUR_ID?v=4](https://avatars.githubusercontent.com/u/184764343?v=4&size=64" 
+       width="180" 
+       style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Arun Vats</h1>
 
 <h3 align="center">B.Tech CSE Student | AI & Full Stack Enthusiast | IoT Builder</h3>
@@ -27,12 +33,12 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/arun-vats-a819bb281">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
-</a>
-<a href="https://github.com/vatsarun-dev">
-<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-</a>
+<a href="https://linkedin.com/in/arun-vats-a819bb281" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+<a href="https://github.com/vatsarun-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
 
 ---
