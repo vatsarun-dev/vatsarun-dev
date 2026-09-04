@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Static banner kept in-repository for reliable GitHub rendering -->
-<img src="./assets/profile-banner.svg" width="100%" alt="Arun Vats - AI Full Stack Backend Builder">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff5fa,100:F8BBD0&text=ARUN%20VATS&fontColor=111111&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Arun Vats - AI Full Stack Backend Builder">
 
 <br>
 
