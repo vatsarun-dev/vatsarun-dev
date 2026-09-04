@@ -38,20 +38,22 @@
 
 ### Hey! I'm Arun 👋
 
-I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**, passionate about building practical software, scalable backends, and AI-powered applications.
+## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science**
-- 🚀 Building **JobReady AI** — an AI-powered resume & mock interview platform
-- 🤖 Exploring **Generative AI & Agentic AI**
-- ⚙️ Building applications with **React, Node.js, Express & MongoDB**
-- 🧠 Practicing **DSA, System Design & Backend Engineering**
-- 🛠️ Built **Jarvis**, a Python-based AI voice assistant
-- 🛰️ Worked on an **ESP32-based safety wearable**
-- 🏆 Participated in **5+ hackathons**
-- 💻 Solved **150+ DSA problems on LeetCode**
-- 📫 **vatsarun58@gmail.com**
+I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**, focused on backend engineering, full-stack development, and building practical software.
 
-> **I don't just want to learn technology — I want to build with it.**
+- Pursuing **B.Tech in Computer Science**
+- Working with **TypeScript, JavaScript, Node.js, Express.js, React.js, and MongoDB**
+- Building and designing **REST APIs, authentication systems, CRUD applications, and backend architectures**
+- Experienced with **JWT authentication, cookies, Mongoose, Socket.io, Redux Toolkit, and API validation**
+- Currently improving my skills in **Backend Engineering, System Design, DSA, and scalable application architecture**
+- Exploring **Generative AI and Agentic AI** and how they can be integrated into real-world applications
+- Participated in **5+ hackathons** and built multiple full-stack projects
+- Solved **150+ DSA problems on LeetCode**
+- Interested in building software that is **simple, scalable, and actually useful**
+- Contact: **vatsarun58@gmail.com**
+
+> **I learn by building, breaking, and rebuilding until I understand how things actually work.**
 
 </td>
 
