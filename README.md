@@ -197,9 +197,9 @@ ESP32-based safety wearable featuring **GPS tracking, buzzer and emergency alert
 <!-- See: https://github.com/Platane/snk -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake-dark.svg?v=20260904">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake.svg?v=20260904">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vatsarun-dev/vatsarun-dev/output/github-contribution-grid-snake.svg?v=20260904">
 </picture>
 
 </div>
