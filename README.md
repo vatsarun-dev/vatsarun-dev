@@ -124,73 +124,37 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 ## Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="33%" valign="top" align="center">
-
 <h3>CodeRoom</h3>
-
-<p>
-Real-time collaborative code editor where multiple users can write and collaborate on code together.
-</p>
-
-<p>
-<strong>React • Node.js • Express • Socket.io • MongoDB</strong>
-</p>
-
+<p>Real-time collaborative code editor where multiple users can write and collaborate on code together.</p>
+<p><strong>React • Node.js • Express • Socket.io • MongoDB</strong></p>
 <br>
-
 <a href="https://github.com/vatsarun-dev">
-  <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="CodeRoom">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="CodeRoom">
 </a>
-
 </td>
-
 <td width="33%" valign="top" align="center">
-
 <h3>DeepTrust</h3>
-
-<p>
-Full-stack platform for detecting deepfakes and manipulated digital content across text, images, video, and audio.
-</p>
-
-<p>
-<strong>Next.js • TypeScript • Node.js • Express • MongoDB • Python</strong>
-</p>
-
+<p>Full-stack platform for detecting deepfakes and manipulated digital content across text, images, video, and audio.</p>
+<p><strong>Next.js • TypeScript • Node.js • Express • MongoDB • Python</strong></p>
 <br>
-
 <a href="https://github.com/vatsarun-dev">
-  <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="DeepTrust">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="DeepTrust">
 </a>
-
 </td>
-
 <td width="33%" valign="top" align="center">
-
 <h3>E-Commerce Backend</h3>
-
-<p>
-REST API backend with authentication, admin controls, product management, cart operations, and payment integration.
-</p>
-
-<p>
-<strong>Node.js • Express • MongoDB • Mongoose • JWT • Razorpay</strong>
-</p>
-
+<p>REST API backend with authentication, admin controls, product management, cart operations, and payment integration.</p>
+<p><strong>Node.js • Express • MongoDB • Mongoose • JWT • Razorpay</strong></p>
 <br>
-
 <a href="https://github.com/vatsarun-dev">
-  <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Backend">
+<img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Backend">
 </a>
-
 </td>
-
 </tr>
 </table>
-
 </div>
 
 ---
@@ -198,77 +162,42 @@ REST API backend with authentication, admin controls, product management, cart o
 ## Open Source & Developer Tools
 
 <div align="center">
-
-<p>
-I build small developer tools that solve problems I personally run into while working with backend and full-stack projects.
-</p>
+<p>I build small developer tools that solve problems I personally run into while working with backend and full-stack projects.</p>
 
 <table>
 <tr>
-
 <td width="50%" valign="top" align="center">
-
 <h3>create-arun-backend</h3>
-
-<p>
-TypeScript backend scaffolding tool for quickly starting a structured Node.js/Express project.
-</p>
-
+<p>TypeScript backend scaffolding tool for quickly starting a structured Node.js/Express project.</p>
 <br>
-
 <p><strong>Install</strong></p>
-
-<p>
-<code>npx create-arun-backend folder_name</code>
-</p>
-
+<p><code>npx create-arun-backend folder_name</code></p>
 <br>
-
 <a href="https://www.npmjs.com/package/create-arun-backend">
-  <img src="https://img.shields.io/npm/v/create-arun-backend?style=for-the-badge&logo=npm&logoColor=white" alt="create-arun-backend npm">
+<img src="https://img.shields.io/npm/v/create-arun-backend?style=for-the-badge&logo=npm&logoColor=white" alt="create-arun-backend npm">
 </a>
-
 &nbsp;
-
 <a href="https://www.npmjs.com/package/create-arun-backend">
-  <img src="https://img.shields.io/npm/dm/create-arun-backend?style=for-the-badge&logo=npm&logoColor=white" alt="create-arun-backend downloads">
+<img src="https://img.shields.io/npm/dm/create-arun-backend?style=for-the-badge&logo=npm&logoColor=white" alt="create-arun-backend downloads">
 </a>
-
 </td>
-
 <td width="50%" valign="top" align="center">
-
 <h3>connect-project</h3>
-
-<p>
-CLI utility for connecting frontend and backend projects while checking project configuration and code quality.
-</p>
-
+<p>CLI utility for connecting frontend and backend projects while checking project configuration and code quality.</p>
 <br>
-
 <p><strong>Install</strong></p>
-
-<p>
-<code>npm i connect-project</code>
-</p>
-
+<p><code>npm i connect-project</code></p>
 <br>
-
 <a href="https://www.npmjs.com/package/connect-project">
-  <img src="https://img.shields.io/npm/v/connect-project?style=for-the-badge&logo=npm&logoColor=white" alt="connect-project npm">
+<img src="https://img.shields.io/npm/v/connect-project?style=for-the-badge&logo=npm&logoColor=white" alt="connect-project npm">
 </a>
-
 &nbsp;
-
 <a href="https://www.npmjs.com/package/connect-project">
-  <img src="https://img.shields.io/npm/dm/connect-project?style=for-the-badge&logo=npm&logoColor=white" alt="connect-project downloads">
+<img src="https://img.shields.io/npm/dm/connect-project?style=for-the-badge&logo=npm&logoColor=white" alt="connect-project downloads">
 </a>
-
 </td>
-
 </tr>
 </table>
-
 </div>
 
 ---
