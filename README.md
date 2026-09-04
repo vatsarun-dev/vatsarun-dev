@@ -142,37 +142,6 @@ Full-stack platform for detecting deepfakes and manipulated digital content acro
 
 <td width="33%" align="center">
 
-### Arun Backend
-
-Production-ready **TypeScript backend boilerplate** with authentication, validation, logging, MongoDB integration, and scalable project structure.
-
-**TypeScript • Express • MongoDB • JWT • Mongoose**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-### Open Source NPM Packages
-
-Building and publishing reusable **Node.js / TypeScript packages** for developers and backend projects.
-
-**Node.js • TypeScript • NPM • Open Source**
-
-</td>
-
-<td width="33%" align="center">
-
-### Connect Project
-
-Developer CLI/tooling concept for connecting frontend and backend projects, detecting configuration issues, and simplifying project setup.
-
-**Node.js • TypeScript • CLI • Developer Tools**
-
-</td>
 
 <td width="33%" align="center">
 
@@ -190,6 +159,59 @@ REST API backend with authentication, admin controls, product management, cart o
 
 </div>
 ---
+## Open Source & Developer Tools
+
+I build small developer tools that solve problems I personally run into while working with backend and full-stack projects.
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>create-arun-backend</h3>
+
+<p>
+JavaScript backend scaffolding tool for quickly starting a structured Node.js/Express project.
+</p>
+
+<p><strong>Install</strong></p>
+
+<code>npx create-arun-backend folder_name</code>
+
+<br><br>
+
+<a href="https://www.npmjs.com/package/create-arun-backend">
+  <img src="https://img.shields.io/npm/v/create-arun-backend?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>connect-project</h3>
+
+<p>
+CLI utility for connecting frontend and backend projects while checking project configuration and code quality.
+</p>
+
+<p><strong>Install</strong></p>
+
+<code>npm i connect-project</code>
+
+<br><br>
+
+<a href="https://www.npmjs.com/package/connect-project">
+  <img src="https://img.shields.io/npm/v/connect-project?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## 📈 GitHub Analytics
 
