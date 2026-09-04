@@ -63,7 +63,7 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 
 <td width="35%" align="center">
 
-<img src="https://github.com/user-attachments/assets/8c9f8f7d-5e5a-4f9d-bb31-4f5a5a7b6e21" width="280" alt="Arun Vats">
+<img src="https://avatars.githubusercontent.com/u/184764343?v=4" width="280" alt="Arun Vats">
 
 </td>
 </tr>
