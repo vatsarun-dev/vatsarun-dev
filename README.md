@@ -257,43 +257,53 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 
 ---
 
+
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://linkedin.com/in/arun-vats-a819bb281">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</td>
 
-&nbsp;
-
+<td align="center">
 <a href="https://x.com/vatsarun58">
-  <img src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&logo=x&logoColor=111111" alt="X">
+<img src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&logo=x&logoColor=111111" alt="X">
 </a>
+</td>
 
-&nbsp;
-
+<td align="center">
 <a href="https://instagram.com/vatsarun58">
-  <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+</td>
+</tr>
 
-&nbsp;
-
+<tr>
+<td align="center">
 <a href="https://www.tiktok.com/@vatsarun58">
-  <img src="https://img.shields.io/badge/TikTok-Follow-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+<img src="https://img.shields.io/badge/TikTok-Follow-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
+</td>
 
-&nbsp;
-
+<td align="center">
 <a href="https://youtube.com/@vatsarun58">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
+</td>
 
-&nbsp;
-
+<td align="center">
 <a href="mailto:vatsarun58@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email">
 </a>
+</td>
+</tr>
+</table>
 
 <br><br>
 
