@@ -10,25 +10,30 @@
 
 <br>
 
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://github.com/vatsarun-dev">
-  <img src="https://img.shields.io/github/followers/vatsarun-dev?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161b22" alt="GitHub Followers">
+<img src="https://img.shields.io/github/followers/vatsarun-dev?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161b22" alt="GitHub Followers">
 </a>
-
-&nbsp;
-
+</td>
+<td align="center">
 <a href="https://github.com/vatsarun-dev?tab=repositories">
-  <img src="https://img.shields.io/github/stars/vatsarun-dev?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161b22" alt="GitHub Stars">
+<img src="https://img.shields.io/github/stars/vatsarun-dev?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161b22" alt="GitHub Stars">
 </a>
-
-&nbsp;
-
+</td>
+<td align="center">
 <img src="https://komarev.com/ghpvc/?username=vatsarun-dev&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
-
-<br><br>
-
+</td>
+<td align="center">
 <a href="https://github.com/vatsarun-dev">
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-💼-EF93C4?style=for-the-badge&labelColor=161b22" alt="Open to Opportunities">
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-💼-EF93C4?style=for-the-badge&labelColor=161b22" alt="Open to Opportunities">
 </a>
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
 
