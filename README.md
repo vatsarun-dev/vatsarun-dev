@@ -113,46 +113,82 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
-### 🤖 JobReady AI
+### CodeRoom
 
-AI-powered platform for **ATS-friendly resumes, resume analysis and mock interviews**.
+Real-time collaborative code editor where multiple users can write and collaborate on code together.
 
-**React • Node.js • AI**
+**React • Node.js • Express • Socket.io • MongoDB**
 
 </td>
 
 <td width="33%" align="center">
 
-### 🧠 Jarvis
+### DeepTrust
 
-Python-based **AI voice assistant** capable of voice interaction and device automation.
+Full-stack platform for detecting deepfakes and manipulated digital content across text, images, video, and audio.
 
-**Python • AI • Automation**
+**Next.js • TypeScript • Node.js • Express • MongoDB • Python**
 
 </td>
 
 <td width="33%" align="center">
 
-### 🛰️ Safety Band
+### Arun Backend
 
-ESP32-based safety wearable featuring **GPS tracking, buzzer and emergency alerts**.
+Production-ready **TypeScript backend boilerplate** with authentication, validation, logging, MongoDB integration, and scalable project structure.
 
-**ESP32 • IoT • GPS**
+**TypeScript • Express • MongoDB • JWT • Mongoose**
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### Open Source NPM Packages
+
+Building and publishing reusable **Node.js / TypeScript packages** for developers and backend projects.
+
+**Node.js • TypeScript • NPM • Open Source**
+
+</td>
+
+<td width="33%" align="center">
+
+### Connect Project
+
+Developer CLI/tooling concept for connecting frontend and backend projects, detecting configuration issues, and simplifying project setup.
+
+**Node.js • TypeScript • CLI • Developer Tools**
+
+</td>
+
+<td width="33%" align="center">
+
+### E-Commerce Backend
+
+REST API backend with authentication, admin controls, product management, cart operations, and payment integration.
+
+**Node.js • Express • MongoDB • Mongoose • JWT • Razorpay**
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
-
 ---
 
 ## 📈 GitHub Analytics
