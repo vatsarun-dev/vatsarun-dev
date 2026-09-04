@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <!-- 🌸 Premium Responsive Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:EF93C4&text=ARUN%20VATS&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff5fa,100:F8BBD0&text=ARUN%20VATS&fontColor=111111&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff5fa,100:F8BBD0&text=ARUN%20VATS&fontColor=#EF93C4&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff5fa,100:F8BBD0&text=ARUN%20VATS&fontColor=EF93C4&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Arun Vats profile banner">
 </picture>
 
 <br>
@@ -64,7 +63,6 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 <td width="35%" align="center">
 
 <img style="border-radius: 50%; width: 280px; height: 280px; object-fit: cover;" src="https://avatars.githubusercontent.com/u/184764343?v=4" alt="Arun Vats">
-
 
 </td>
 </tr>
@@ -164,17 +162,33 @@ ESP32-based safety wearable featuring **GPS tracking, buzzer and emergency alert
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsarun-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&rank_icon=github" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vatsarun-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&rank_icon=github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vatsarun-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=555555&rank_icon=github&theme=default">
+  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vatsarun-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=555555&rank_icon=github&theme=default" alt="GitHub statistics">
+</picture>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsarun-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vatsarun-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vatsarun-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=555555&theme=default">
+  <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vatsarun-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=555555&theme=default" alt="Most used programming languages">
+</picture>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=vatsarun-dev&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=888888" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vatsarun-dev&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=888888">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vatsarun-dev&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=555555&dates=777777">
+  <img src="https://streak-stats.demolab.com?user=vatsarun-dev&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=555555&dates=777777" width="70%" alt="GitHub streak statistics">
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsarun-dev&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsarun-dev&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsarun-dev&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsarun-dev&theme=default" width="95%" alt="GitHub activity graph and profile details">
+</picture>
 
 </div>
 
@@ -230,4 +244,3 @@ ESP32-based safety wearable featuring **GPS tracking, buzzer and emergency alert
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF93C4,100:F8BBD0&animation=twinkling" width="100%">
 
 </div>
-
