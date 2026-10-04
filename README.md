@@ -23,9 +23,7 @@
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/vatsarun-dev">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vatsarun-dev.vatsarun-dev&left_color=161b22&right_color=EF93C4&left_text=Profile%20Views" alt="Profile Views">
-</a>
+<img src="https://komarev.com/ghpvc/?username=vatsarun-dev&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views">
 </td>
 <td align="center">
 <a href="https://github.com/vatsarun-dev">
