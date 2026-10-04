@@ -23,9 +23,7 @@
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/vatsarun-dev">
-<img src="https://komarev.com/ghpvc/?username=vatsarun-dev&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge" alt="Profile Views">
-</a>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-—-FF69B4?style=for-the-badge&labelColor=161b22" alt="Profile Views">
 </td>
 <td align="center">
 <a href="https://github.com/vatsarun-dev">
