@@ -23,7 +23,10 @@
 </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-—-FF69B4?style=for-the-badge&labelColor=161b22" alt="Profile Views">
+  <img
+    src="https://YOUR-COUNTER-URL/badge/vatsarun-dev?type=total&label=PROFILE+VIEWS&color=pink"
+    alt="Profile Views"
+  >
 </td>
 <td align="center">
 <a href="https://github.com/vatsarun-dev">
