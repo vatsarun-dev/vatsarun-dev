@@ -24,7 +24,7 @@
 </td>
 <td align="center">
   <img
-    src="https://YOUR-COUNTER-URL/badge/vatsarun-dev?type=total&label=PROFILE+VIEWS&color=pink"
+    src="https://komarev.com/ghpvc/?username=vatsarun-dev&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge"
     alt="Profile Views"
   >
 </td>
