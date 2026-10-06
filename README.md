@@ -60,7 +60,6 @@ I'm a **B.Tech Computer Science student** at **Bharat Institute of Technology**,
 - Currently improving my skills in **Backend Engineering, System Design, DSA, and scalable application architecture**
 - Exploring **Generative AI and Agentic AI** and how they can be integrated into real-world applications
 - Participated in **5+ hackathons** and built multiple full-stack projects
-- Solved **150+ DSA problems on LeetCode**
 - Interested in building software that is **simple, scalable, and actually useful**
 - Contact: **vatsarun58@gmail.com**
 
